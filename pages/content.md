@@ -3,6 +3,5 @@ title: content
 permalink: /permalink/content/
 description: ""
 ---
-
-
-![](/images/hero-banner.png)[Lofi](https://www.youtube.com/live/jfKfPfyJRdk?feature=share)
+![](/images/hero-banner.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jfKfPfyJRdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
