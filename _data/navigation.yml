@@ -6,5 +6,5 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: Menu Title
+  - title: hello
     collection: hello
